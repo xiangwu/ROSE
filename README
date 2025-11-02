@@ -2,7 +2,9 @@
     - RO-I 机器人技术基础：建模与运动学               
     - RO-II 机器人运动控制：动力学与控制方法
     - RO-III 控制理论实践教程：经典控制/现代控制/非线性控制
-    - ROT-ROS4RAICOM
+    - ROS_Tutorials
+        |- ROS1_RAICOM
+        |- ROS2_ROMAN
 
 2. 习题、示例及算法仿真平台 （Matlab/Python + CoppeliaSim）:    
     机器人控制算法实例复现及配套说明
